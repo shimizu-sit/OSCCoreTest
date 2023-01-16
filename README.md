@@ -1,0 +1,2 @@
+# OSCCoreTest
+ OSC Coreのテストプロジェクト
